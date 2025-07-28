@@ -24,7 +24,6 @@ This repository demonstrates how to simulate gamma-ray sources using the [COSI](
 |-----------------------------------------|----------------------------------------------------------|
 | `crab_spec.dat`                         | Tabular Crab spectrum used for piecewise injection       |
 | `OPsSpectrum.dat`                       | Optional spectrum for additional injection experiments   |
-| `20280301_3_month_with_orbital_info.ori`| Spacecraft orientation history (3-month mock mission)    |
 
 ### Code Scripts
 
